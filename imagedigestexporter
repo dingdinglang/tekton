@@ -1,0 +1,1 @@
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/imagedigestexporter:v0.44.0@sha256:b65389daa312b9c1bfe9cc1d2c9066a877676034b4264b3576e3ccf8843b961d
